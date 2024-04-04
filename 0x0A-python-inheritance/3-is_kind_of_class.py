@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Implementation of built-in isinstance function"""
 
 def is_kind_of_class(obj, a_class):
     """A a function that returns True if the object is

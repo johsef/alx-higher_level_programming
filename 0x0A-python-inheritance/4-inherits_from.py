@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Module definition"""
 
 def inherits_from(obj, a_class):
     """A function that returns True if the object is
