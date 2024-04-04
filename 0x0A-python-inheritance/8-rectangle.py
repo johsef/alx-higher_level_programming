@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 """Derived class definition"""
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 
